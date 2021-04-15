@@ -1,2 +1,2 @@
 # videoProject
-![](display.jpg)
+![](display.png)
